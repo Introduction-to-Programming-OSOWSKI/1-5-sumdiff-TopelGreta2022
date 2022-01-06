@@ -1,3 +1,3 @@
-def sumdiff(x,y):
+def sumDiff(x,y):
     return x - y 
-sumdiff (9 , 8)
+sumDiff (9 , 8)
